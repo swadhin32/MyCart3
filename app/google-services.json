@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "530854409278",
+    "firebase_url": "https://ecommerce-app-398e3-default-rtdb.firebaseio.com",
+    "project_id": "ecommerce-app-398e3",
+    "storage_bucket": "ecommerce-app-398e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530854409278:android:6af20e76d44599403d0d6f",
+        "android_client_info": {
+          "package_name": "com.example.mycart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530854409278-rdant1r97j0k27snapilmkng7g63gp36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoww8f5qX8hAo7DY9PCmkykcxLmuILISQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530854409278-rdant1r97j0k27snapilmkng7g63gp36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530854409278:android:519d9ddb79ce39d03d0d6f",
+        "android_client_info": {
+          "package_name": "com.example.mycart2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530854409278-rdant1r97j0k27snapilmkng7g63gp36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoww8f5qX8hAo7DY9PCmkykcxLmuILISQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530854409278-rdant1r97j0k27snapilmkng7g63gp36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530854409278:android:7529cbf8b5acb1823d0d6f",
+        "android_client_info": {
+          "package_name": "com.example.mycart3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530854409278-rdant1r97j0k27snapilmkng7g63gp36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoww8f5qX8hAo7DY9PCmkykcxLmuILISQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530854409278-rdant1r97j0k27snapilmkng7g63gp36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
